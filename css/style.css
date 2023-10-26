@@ -1,3 +1,13 @@
+/* Estilos gerais */
+body {
+    font-family: 'Libre Baskerville', serif;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: #161616;
+}
+
 /* Reset de estilos básicos */
 body, h1, h2, h3, p, ul, li {
     margin: 0;
@@ -13,15 +23,7 @@ p{
 }
 
 
-/* Estilos gerais */
-body {
-    font-family: 'Libre Baskerville', serif;
-    color: #333;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background: #161616;
-}
+
 .cor-de-fundo{
     background: #000000;
 }
@@ -189,7 +191,6 @@ color: white;
     padding: 10px;
     margin: 5px;
 }
-
 
 footer {
     background-color: #a00da0;
